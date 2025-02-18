@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Me chamo Kauã, tenho 21 anos e moro em Tijucas, Santa Catarina
+Me chamo Kauã Betineli, tenho 21 anos e moro em Tijucas/SC
 
 Atualmente, estudando:
 
