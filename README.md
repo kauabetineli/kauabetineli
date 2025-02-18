@@ -1,4 +1,17 @@
-## Hi there 👋
+## Sobre mim
+
+Me chamo Kauã, tenho 21 anos e moro em Tijucas, Santa Catarina
+
+Atualmente, estudando:
+
+<div>
+  <img width=70px height=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+<img width=70px height=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+</div>
+
+          
+
 
 <!--
 **kauabetineli/kauabetineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
